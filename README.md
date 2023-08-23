@@ -6,6 +6,6 @@
 
 <div align="center">
 
-![Stack Overflow](https://stackoverflow.com/users/flair/22432013.png?theme=clean)
+![Stack Overflow](https://stackoverflow.com/users/22432013/ciar)
 
 </div>
